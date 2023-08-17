@@ -1,8 +1,8 @@
-package homework_22;
-public class Father
+package homework_22_;
+public class Person
     {
         private String name;
-        public Father(String name)
+        public Person(String name)
         {
             this.name = name;
         }

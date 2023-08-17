@@ -1,9 +1,9 @@
-package homework_22;
+package homework_22_;
 
-  class Son extends Father
+class Patient extends Person
   {
      private int yearOfBirth;
-     public Son(String name, int yearOfBirth)
+     public Patient(String name, int yearOfBirth)
      {
         super(name);
         this.yearOfBirth = yearOfBirth;
