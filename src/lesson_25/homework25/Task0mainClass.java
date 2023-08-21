@@ -1,6 +1,6 @@
 package lesson_25.homework25;
 
-public class Task0mainMethod {
+public class Task0mainClass {
     public static boolean strEndsWithAnotherStr(String str, String subStr)
     {
         if (str == null || subStr == null) {
